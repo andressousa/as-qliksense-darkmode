@@ -12,5 +12,5 @@ AS Dark Mode is a visualization extension for Qlik Sense that turns the dashboar
 2. Install extension following [Qlik Help](https://help.qlik.com/en-US/sense-developer/November2022/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm) instructions;
 3. Open the App;
 4. Go to Custom objects into [Assets panel](https://help.qlik.com/en-US/sense/November2022/Subsystems/Hub/Content/Sense_Hub/Assets/assets-panel.htm);
-5. Open Extensions tab, then drag & drop AS Dark Mode to the sheet;
+5. Open Extensions tab, then drag & drop extension to the sheet;
 6. That's all.
