@@ -1,5 +1,5 @@
 # AS Dark Mode
-![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-darkmode) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-darkmode) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-darkmode)
+![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-darkmode) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-darkmode) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-darkmode) [![Github All Releases](https://img.shields.io/github/downloads/andressousa/as-qliksense-darkmode/total.svg)]()
 
 AS Dark Mode is a visualization extension for Qlik Sense that turns the dashboard into **grayscale** and **high contrast** mode for accessibility by people with low vision.
 
