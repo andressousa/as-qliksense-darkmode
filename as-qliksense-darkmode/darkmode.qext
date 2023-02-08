@@ -1,0 +1,16 @@
+{
+	"name": "AS Dark Mode",
+	"description": "AS Dark Mode is a visualization extension for Qlik Sense that turns the dashboard into grayscale and high contrast mode for accessibility by people with low vision.",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "André Sousa",
+	"homepage": "https://www.linkedin.com/in/andresantossousa/",
+	"keywords": "qlik-sense, visualization, dark mode",
+	"preview": "preview.png",
+	"license": "The MIT License (MIT)",
+	"repository": "https://github.com/andressousa/as-qliksense-darkmode",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
